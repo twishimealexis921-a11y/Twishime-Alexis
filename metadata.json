@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Rwanda",
+  "description": "The unified intelligence platform for the Republic of Rwanda, empowering citizens, farmers, and visitors with AI-powered public services, smart agriculture, eco-tourism, and multilingual assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
